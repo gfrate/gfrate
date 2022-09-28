@@ -17,4 +17,5 @@ I'm Giovanni from Italy.
 <ul>
   <li>Email: (Coming Soon)</li>
   <li>Discord: Frate#7940</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/giovanni-frate-a80b78246/">Giovanni Frate</a></li>
 </ul>
