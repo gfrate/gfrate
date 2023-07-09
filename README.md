@@ -38,3 +38,4 @@ I'm Giovanni from Italy.
 [![](https://img.shields.io/badge/Email-01DAFB?logo=icloud&logoColor=white&style=flat-square)](mailto:giovannifrate2@icloud.com)
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfrate)
 [![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/20114306/gfrate)
+![Profile Views](https://komarev.com/ghpvc/?username=gfrate&color=red)
